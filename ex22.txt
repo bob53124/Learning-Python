@@ -1,0 +1,29 @@
+"This is a list of all the python commands and symbols i have learnt)
+print prints out text onto screen
+# anything after that is ignored by python
++ Means add
+- Means take away
+/ Means divide 
+* Means times
+% Means the remainder of the left side divided by the right or it can be used to define %d %r or %s by putting % then (variables)
+= Defines a variable
+%d means a number
+%s means a string
+%r means text & numbers
+, is used with print to print things on one line
+\n means new line used inse a "" in print
+""" is used with print you can type as many lines as you want and it will be displayed the same
+\t is a tab
+\\ is a slash
+\ if you put something after it ie " or ' it will not end the dialog
+raw_input() it requires input from the user a prompt can be put inside the ()
+from sys means from the system
+import argv this means to from the system import the command argv
+open() opens the file inside the brackets
+whatever.read() reads the text file in the variable whatever
+whatever.truncate() deletes all text in the text file opened by the variable whatever
+whatever.write writes to the text file
+whatever.close closes the text file
+len tells how many bytes there are in a file
+def defines a function
+rewind puts it back to the beggining
