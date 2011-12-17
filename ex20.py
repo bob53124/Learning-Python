@@ -22,7 +22,7 @@ print "Now let's rewind, kind of like a tape."
 
 rewind(current_file)
 
-print "Let;s print three lines:"
+print "Let's print three lines:"
 
 current_line = 1
 print_a_line(current_line, current_file)
